@@ -1,0 +1,8 @@
+{
+  "url": "https://example.com",
+  "type": "static",
+  "rules": {
+    "title": "h1",
+    "description": "p"
+  }
+}
